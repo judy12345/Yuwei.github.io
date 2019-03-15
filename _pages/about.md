@@ -1,14 +1,18 @@
 ---
 permalink: /
-title: "Wei Jin (金卫)"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-###
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I'm a senior student in Zhejiang University, Hangzhou, China. I will join Michigan State University as a Ph.D. candidate in this Fall. My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including theory foundations, model robustness and its applications. 
+
+I've been working as a research assistant with [Dr. Donghui Wang](ZJU) (http://www.cs.zju.edu.cn/people/wangdh/People.html) during the past year.
+
+Before that, I worked as a visiting student at University of Western Australia supervised by [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). 
+
 ###
 A data-driven personal website
 ======
