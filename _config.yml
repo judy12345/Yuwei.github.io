@@ -83,13 +83,13 @@ author:
   name             : "Wei Jin"
   avatar           : "profile.png"
   bio              : "Life sucks, but you are gonna love it."
-  location         : " Hangzhou, China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : joe.weijin@gmail.com
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
