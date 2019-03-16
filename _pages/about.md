@@ -30,14 +30,12 @@ Xiaoyu Inc. - Data Engineer, Sep 2018 - Present
 ●	Developed a recommender system based on Collaborative Filtering and Elasticserach. The dataset contains 600,000 users and millions of records.
 
 University of Western Australia - Research Intern, Jul 2018 - Sep 2018
-●	Incorporated Abstract Meaning Representation (AMR) in natural language processing tasks including paraphrase identification and sentiment 
-analysis, based on Graph Embedding and Latent Semantic Analysis
-●	Under the supervision of Dr. Wei Liu and Dr. David Glance, Department of Computer Science, UWA
+* Incorporated Abstract Meaning Representation (AMR) in natural language processing tasks including paraphrase identification and sentiment analysis, based on Graph Embedding and Latent Semantic Analysis
+* Under the supervision of Dr. Wei Liu and Dr. David Glance, Department of Computer Science, UWA
 
 Digital media Computing & Design Lab (DCD Lab), ZJU - Research Assistant, Mar 2018 - Jul 2018
-●	Developed a face identification system for the members in our lab and now exploring a system which can handle cross-domain problem to detect 
-faces or other objects in artwork
-●	Under the supervision of Professor Donghui Wang, ZJU 
+* Developed a face identification system for the members in our lab and now exploring a system which can handle cross-domain problem to detect faces or other objects in artwork
+* Under the supervision of Professor Donghui Wang, ZJU 
 
 
 <!---
