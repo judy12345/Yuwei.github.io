@@ -22,7 +22,7 @@ News
 
 Education
 ======
-Zhejiang University, China
+Zhejiang University, China  
 B.E. in Electrical Engineering
 * Sept. 2015 - June 2019 (Expected) 
 * GPA: 3.93/4.00, Average Score: 89.43/100 
