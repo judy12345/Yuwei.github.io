@@ -15,9 +15,17 @@ Before that, I worked as a visiting student at University of Western Australia s
 
 Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
+<!--
 News
+=====
+-->
+
+Education
 ======
-To be add...
+Zhejiang University, China
+B.E. in Electrical Engineering
+• Sept. 2015 - June 2019 (Expected) 
+• GPA: 3.93/4.00, Average Score: 89.43/100 
 
 Publication
 ======
@@ -28,6 +36,13 @@ Experience
 * Hangzhou Xiaoyu Inc. - Data Engineer Intern, Oct 2018 - Present
 * University of Western Australia - Research Intern, Jul 2018 - Sep 2018
 * Digital media Computing & Design Lab (DCD Lab), ZJU - Research Assistant, Feb 2018 - Jul 2018
+
+Honors & Awards
+=====
+* Provincial Government Scholarship (2018 top 5%)
+* Second-Class Scholarship for Outstanding Merits (2016 & 2017 & 2018 top 11%)
+* Awards of Top Ten Students in Lantian Campus, Zhejiang University (2017)
+* Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
 
 
 <!---
