@@ -11,7 +11,7 @@ Hi! I'm a senior student in Zhejiang University, Hangzhou, China. I will join Mi
 
 I've been wokring as an intern at Hangzhou Xiaoyu Co., Ltd since 2018 fall, developing user and microblog recommender systems. 
 
-Before that, I worked as a visiting student at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](http://www.cs.zju.edu.cn/people/wangdh/People.html)(ZJU) during the past year.
+Before that, I worked as a visiting student at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](http://www.cs.zju.edu.cn/people/wangdh/default.html)(ZJU) during the past year.
 
 Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
