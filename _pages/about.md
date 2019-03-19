@@ -18,13 +18,13 @@ Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/Chand
 <!--
 News
 =====
--->
 
 Education
 ======
 * B.E. in Eletrical Engineering, Zhejiang University
   * Sept. 2015 - June 2019 (Expected) 
   * GPA: 3.93/4.00, Average Score: 89.43/100 
+-->
 
 Publication
 ======
