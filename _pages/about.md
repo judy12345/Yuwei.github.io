@@ -25,7 +25,7 @@ To be add...
 
 Experience
 ======
-* Xiaoyu Inc. - Data Engineer, Oct 2018 - Present
+* Hangzhou Xiaoyu Inc. - Data Engineer Intern, Oct 2018 - Present
 * University of Western Australia - Research Intern, Jul 2018 - Sep 2018
 * Digital media Computing & Design Lab (DCD Lab), ZJU - Research Assistant, Feb 2018 - Jul 2018
 
