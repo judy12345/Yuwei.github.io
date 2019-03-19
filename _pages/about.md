@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm a senior student in Zhejiang University, Hangzhou, China. I will join Michigan State University as a Ph.D. candidate supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) in this Fall. My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including theory foundations, model robustness and its applications. 
+Hi! I'm a senior student in Zhejiang University, Hangzhou, China. I will join Michigan State University as a Ph.D. candidate supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) in this Fall. My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including theory foundations, model robustness and its applications. 
 
 I've been wokring as an intern at Hangzhou Xiaoyu Co., Ltd since 2018 fall, developing user and microblog recommender systems. 
 
@@ -22,10 +22,9 @@ News
 
 Education
 ======
-Zhejiang University, China  
-B.E. in Electrical Engineering
-* Sept. 2015 - June 2019 (Expected) 
-* GPA: 3.93/4.00, Average Score: 89.43/100 
+* B.E. in Eletrical Engineering, Zhejiang University
+  * Sept. 2015 - June 2019 (Expected) 
+  * GPA: 3.93/4.00, Average Score: 89.43/100 
 
 Publication
 ======
