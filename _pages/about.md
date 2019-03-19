@@ -38,9 +38,8 @@ Experience
 
 Honors & Awards
 =====
-* Provincial Government Scholarship (2018 top 5%)
-* Second-Class Scholarship for Outstanding Merits (2016 & 2017 & 2018 top 11%)
-* Awards of Top Ten Students in Lantian Campus, Zhejiang University (2017)
+* Provincial Government Scholarship (top 5%), 2018
+* Second-Class Scholarship for Outstanding Merits(top 11%), 2016 & 2017 & 2018
 * Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
 
 
