@@ -32,9 +32,15 @@ To be add...
 
 Experience
 ======
-* Hangzhou Xiaoyu Inc. - Data Engineer Intern, Oct 2018 - Present
-* University of Western Australia - Research Intern, Jul 2018 - Sep 2018
-* Digital media Computing & Design Lab (DCD Lab), ZJU - Research Assistant, Feb 2018 - Jul 2018
+* Oct 2018 - Mar 2019: Data Engineer Intern
+  * Hangzhou Xiaoyu Inc. 
+  * Developing microblog and user recommender systems
+*  Jul 2018 - Sep 2018: Research Intern
+    * University of Western Australia 
+    * Supervisor: Dr. Wei Liu
+* Feb 2018 - Jul 2018: Research Assistant  
+    * DCD Lab, Zhejiang University
+    * Supervisor: Dr. Donghui Wang 
 
 Honors & Awards
 =====
