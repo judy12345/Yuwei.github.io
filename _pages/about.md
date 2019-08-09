@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi! I'm a senior student in Zhejiang University, Hangzhou, China. I will join Michigan State University as a Ph.D. candidate supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) in this Fall. My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including its theory foundations, model robustness and applications. 
+Hi! I'm a first-year Ph.D. student in Michigan State University, supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including its theory foundations, model robustness and applications. 
 
-I've been wokring as an intern at Hangzhou Xiaoyu Co., Ltd since 2018 fall, developing user and microblog recommender systems. 
-
-Before that, I worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](http://www.cs.zju.edu.cn/people/wangdh/default.html)(ZJU) during the past year.
+Previously, I wokred as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](http://www.cs.zju.edu.cn/people/wangdh/default.html)(ZJU) in 2018
 
 Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
@@ -23,7 +21,7 @@ Education
 ======
 * B.E. in Eletrical Engineering, Zhejiang University
   * Sept. 2015 - June 2019 (Expected) 
-  * GPA: 3.93/4.00, Average Score: 89.43/100 
+  * GPA: 3.91/4.00
 -->
 
 Publication
