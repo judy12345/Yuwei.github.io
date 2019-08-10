@@ -19,9 +19,12 @@ News
 
 Education
 ======
+* Ph.D in Computer Science, Michigan State University
+  * Aug. 2019 - ?
+  * GPA: ?.??/4.0
 * B.E. in Eletrical Engineering, Zhejiang University
   * Sept. 2015 - June 2019 (Expected) 
-  * GPA: 3.91/4.00
+  * GPA: 3.91/4.0
 -->
 
 Publication
