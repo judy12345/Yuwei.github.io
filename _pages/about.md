@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student in Michigan State University, supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/).<br/>My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including its theory foundations, model robustness and applications. 
+Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). My interests lies in Deep Learning and Graph Analysis. Now I work on the area of graph neural netowork including its theory foundations, model robustness and applications. 
 
 Previously, I wokred as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](http://www.cs.zju.edu.cn/people/wangdh/default.html)(ZJU) in 2018.
 
@@ -22,7 +22,7 @@ Education
 ======
 * Ph.D in Computer Science, Michigan State University
   * Aug. 2019 - ?
-  * GPA: ?.??/4.0
+  * GPA: ???/4.0
 * B.E. in Eletrical Engineering, Zhejiang University
   * Sept. 2015 - June 2019 (Expected) 
   * GPA: 3.91/4.0
