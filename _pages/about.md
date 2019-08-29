@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). My interests lie in Graph Representation and Recommender Systems. Now I work on the area of graph neural netowork including its theory foundations, model robustness and applications. 
+Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). My interests lie in Graph Representation and Recommender Systems. Now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
 
-Previously, I wokred as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](http://www.cs.zju.edu.cn/people/wangdh/default.html)(ZJU) in 2018.
+Previously, I wokred as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=en)(ZJU) in 2018.
 
 Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
@@ -24,8 +24,8 @@ Education
   * Aug. 2019 - ?
   * GPA: ???/4.0
 * B.E. in Eletrical Engineering, Zhejiang University
-  * Sept. 2015 - June 2019 (Expected) 
-  * GPA: 3.91/4.0
+  * Sept. 2015 - June 2019  
+  * GPA: 3.90/4.0
 
 
 Publication
@@ -34,15 +34,15 @@ To be add...
 
 Experience
 ======
-* Oct 2018 - Mar 2019: Data Engineer Intern
+* Oct 2018 - Apr 2019: Data Engineer Intern
   * Hangzhou Xiaoyu Inc. 
   * Developing microblog and user recommender systems
 *  Jul 2018 - Sep 2018: Research Intern
     * University of Western Australia 
-    * Supervisor: Dr. Wei Liu
+    * Supervised by Dr. Wei Liu
 * Feb 2018 - Jul 2018: Research Assistant  
     * DCD Lab, Zhejiang University
-    * Supervisor: Dr. Donghui Wang 
+    * Supervised by Dr. Donghui Wang 
 
 Honors & Awards
 =====
