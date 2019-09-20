@@ -18,38 +18,6 @@ News
 =====
 -->
 
-Education
-======
-* Ph.D in Computer Science, Michigan State University
-  * Aug. 2019 - ?
-  * GPA: ???/4.0
-* B.E. in Eletrical Engineering, Zhejiang University
-  * Sept. 2015 - June 2019  
-  * GPA: 3.90/4.0
-
-
-Publication
-======
-To be add...
-
-Experience
-======
-* Oct 2018 - Apr 2019: Data Engineer Intern
-  * Hangzhou Xiaoyu Inc. 
-  * Developing microblog and user recommender systems
-*  Jul 2018 - Sep 2018: Research Intern
-    * University of Western Australia 
-    * Supervised by Dr. Wei Liu
-* Feb 2018 - Jul 2018: Research Assistant  
-    * DCD Lab, Zhejiang University
-    * Supervised by Dr. Donghui Wang 
-
-Honors & Awards
-=====
-* Provincial Government Scholarship (top 5%), 2018
-* Second-Class Scholarship for Outstanding Merits (top 11%), 2016 & 2017 & 2018
-* Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
-
 
 <!---
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
