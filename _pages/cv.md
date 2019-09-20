@@ -9,7 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* Ph.D in Computer Science, Michigan State University
+  * Aug. 2019 - ?
+  * GPA: ???/4.0
+* B.E. in Eletrical Engineering, Zhejiang University
+  * Sept. 2015 - June 2019  
+  * GPA: 3.90/4.0
+
+
+Publication
+======
+To be add...
+
+Experience
+======
+* Oct 2018 - Apr 2019: Data Engineer Intern
+  * Hangzhou Xiaoyu Inc. 
+  * Developing microblog and user recommender systems
+*  Jul 2018 - Sep 2018: Research Intern
+    * University of Western Australia 
+    * Supervised by Dr. Wei Liu
+* Feb 2018 - Jul 2018: Research Assistant  
+    * DCD Lab, Zhejiang University
+    * Supervised by Dr. Donghui Wang 
+
+Honors & Awards
+=====
+* Provincial Government Scholarship (top 5%), 2018
+* Second-Class Scholarship for Outstanding Merits (top 11%), 2016 & 2017 & 2018
+* Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
+
+
 You can find my CV[xxxx] here. 
+
 
 <!--
 Education
