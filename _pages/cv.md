@@ -11,7 +11,7 @@ redirect_from:
 
 ### Education
 * Ph.D in Computer Science, Michigan State University
-  * Aug. 2019 - ?
+  * Aug. 2019 - Present
 
 * B.E. in Eletrical Engineering, Zhejiang University
   * Sept. 2015 - June 2019  
@@ -40,7 +40,7 @@ Honors & Awards
 * Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
 -->
 
-You can find my CV[https://chandlerbang.github.io/files/CV_Wei%20Jin_MSU.pdf] here. 
+You can find my [CV](https://chandlerbang.github.io/files/CV_Wei%20Jin_MSU.pdf) here. 
 
 
 <!--
