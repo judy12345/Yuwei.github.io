@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
 * Ph.D in Computer Science, Michigan State University
   * Aug. 2019 - ?
-  * GPA: ???/4.0
+
 * B.E. in Eletrical Engineering, Zhejiang University
   * Sept. 2015 - June 2019  
-  * GPA: 3.90/4.0
 
-
+<!--
 Publication
 ======
 To be add...
@@ -40,9 +38,9 @@ Honors & Awards
 * Provincial Government Scholarship (top 5%), 2018
 * Second-Class Scholarship for Outstanding Merits (top 11%), 2016 & 2017 & 2018
 * Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
+-->
 
-
-You can find my CV[xxxx] here. 
+You can find my CV[https://chandlerbang.github.io/files/CV_Wei%20Jin_MSU.pdf] here. 
 
 
 <!--
