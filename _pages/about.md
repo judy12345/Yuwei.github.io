@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). My interests lie in Graph Representation and Recommender Systems. Now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
+Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). My interests lie in Graph Representation Learning. Now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
 
 Previously, I wokred as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also worked as a research assistant with Dr. [Donghui Wang](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=en)(ZJU) in 2018.
 
 Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
 <!--
+-----
+Research Interest
+=====
+*
 News
 =====
 -->
