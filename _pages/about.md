@@ -11,7 +11,7 @@ Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michi
 
 My interest lies in Graph Representation Learning and now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
 
-Previously, I worked as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://scholar.google.com/citations?user=o_u17HMAAAAJ&hl=en). I also worked as a research assistant with Dr. [Donghui Wang](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=en)(ZJU) in 2018.
+Previously, I worked as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://scholar.google.com/citations?user=o_u17HMAAAAJ&hl=en). I also worked as a research assistant with Dr. [Donghui Wang](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=en) (ZJU) in 2018.
 
 Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
