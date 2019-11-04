@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). I completed his B.E. degree in Electrical Engineering at Zhejiang University. 
+Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). I completed my B.E. degree in Electrical Engineering at Zhejiang University. 
 
 My interest lies in Graph Representation Learning and now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
 
