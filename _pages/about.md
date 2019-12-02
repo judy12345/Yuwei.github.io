@@ -24,9 +24,8 @@ Research Interest
 
 News
 =====
-[08/2019] Start my Ph.D. life at Michigan State University!
-
-[07/2019] Graduated from Zhejiang University with the awards of Outstanding Graduate of ZJU and Zhejiang Province
+* [08/2019] Start my Ph.D. life at Michigan State University!
+* [07/2019] Graduated from Zhejiang University with the awards of Outstanding Graduate of ZJU and Zhejiang Province, China
 
 
 <!---
