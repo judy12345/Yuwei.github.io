@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Xiaoyang Wang, Yao Ma, Yiqi Wang, **Wei Jin**, Xin Wang, Jiliang Tang, Caiyan Jia and Jian Yu. Traffic Flow Prediction via Spatial Temporal Graph Neural Network. WWW 2020.
+* **Traffic Flow Prediction via Spatial Temporal Graph Neural Network. WWW 2020.**
+  
+  Xiaoyang Wang, Yao Ma, Yiqi Wang, **Wei Jin**, Xin Wang, Jiliang Tang, Caiyan Jia and Jian Yu. 
 
 
 <!--
