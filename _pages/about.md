@@ -24,10 +24,17 @@ Research Interest
 
 News
 =====
+* [02/2020] Check our repository [DeepRobust](https://github.com/DSE-MSU/DeepRobust) here, which is a pytorch library for adversarial attacks and defenses.
+* [02/2020] Check our AAAI'20 tutorial [slides](http://cse.msu.edu/~mayao4/tutorials/aaai2020/) here! 
 * [09/2019] Our tutorial “Graph Neural Networks: Models and Applications” is accepted by AAAI2020
 * [08/2019] Start my Ph.D. life at Michigan State University!
 * [07/2019] Graduated from Zhejiang University with the awards of Outstanding Graduate of ZJU and Zhejiang Province, China
 
+Personal
+====
+I enjoy many different kinds of sports including running, basketball, ping-pong and tennis. During my undergrad, I got several champions in 400m, 400m hurdle and 400m relay races at the University's sports meetings. 
+
+Now my goal is to bulk up myself ~~and get a certificate of personal trainer~~. Let's see what will happen 5 years later :)
 
 <!---
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
