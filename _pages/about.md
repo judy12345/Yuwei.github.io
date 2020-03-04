@@ -33,7 +33,7 @@ News
 
 Personal
 ====
-I enjoy many different kinds of sports including running, basketball, ping-pong and tennis. During my undergrad, I got several champions in 400m, 400m hurdles and 4*400m relay races at the University's sports meetings. 
+I enjoy many different kinds of sports including running, basketball, ping-pong and tennis. During my undergrad, I got several champions in 400m, 400m hurdles and 4*400m relay races at the univeristy sports meet. 
 
 Now my goal is to bulk up ~~and hopefully get a certificate of personal trainer~~. Let's see what will happen 5 years later :)
 
