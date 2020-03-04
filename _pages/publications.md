@@ -17,7 +17,7 @@ author_profile: true
   
 
 ### Conference Paper
-* Xiaoyang Wang, Yao Ma, Yiqi Wang, **Wei Jin**, Xin Wang, Jiliang Tang, Caiyan Jia and Jian Yu. <br>
+* Xiaoyang Wang, Yao Ma, Yiqi Wang, **Wei Jin**, Xin Wang, Jiliang Tang, Caiyan Jia and Jian Yu <br>
   **Traffic Flow Prediction via Spatial Temporal Graph Neural Network** <br>
   To appear in Proceedings of the 29th International Conference on World Wide Web Companion (WWW), 2020
 
