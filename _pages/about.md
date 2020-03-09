@@ -29,11 +29,11 @@ News
 * [02/2020] Honored to present our tutorial in AAAI 2020 [[website]](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
 * [09/2019] Our tutorial  “Graph Neural Networks: Models and Applications” is accepted by AAAI2020
 * [08/2019] Start my Ph.D. life at Michigan State University!
-* [07/2019] Graduat from Zhejiang University with the awards of Outstanding Graduate of ZJU and Zhejiang Province, China
+* [07/2019] Graduate from Zhejiang University with the awards of Outstanding Graduate of ZJU and Zhejiang Province, China
 
 Personal
 ====
-I enjoy many different kinds of sports including running, basketball, ping-pong and tennis. During my undergrad, I got several champions in 400m, 400m hurdles and 4*400m relay races at the univeristy sports meet. 
+I enjoy many different kinds of sports including running, basketball, ping-pong and tennis. During my undergrad, I got several champions in 400m, 400m hurdles and 4*400m relay races at the university sports meet. 
 
 Now my goal is to bulk up ~~and hopefully get a certificate of personal trainer~~. Let's see what will happen 5 years later :)
 
