@@ -24,6 +24,9 @@ Research Interest
 
 News
 =====
+* [05/2020] Our paper “Graph Structure Learning for Robust Graph Neural Networks” is accepted by KDD2020
+* [05/2020] Our tutorial  “Adversarial Attacks and Defenses: Frontiers, Advances and Practice” is accepted by KDD2020
+* [05/2020] Preprint ["DeepRobust: A PyTorch Library for Adversarial Attacks and Defenses"](https://arxiv.org/abs/2005.06149)
 * [03/2020] Preprint ["Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study"](https://arxiv.org/abs/2003.00653)
 * [02/2020] Check our repository [DeepRobust](https://github.com/DSE-MSU/DeepRobust) here, which is a pytorch library for adversarial attacks and defenses on images and graphs
 * [02/2020] Honored to present our tutorial in AAAI 2020 [[website]](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
