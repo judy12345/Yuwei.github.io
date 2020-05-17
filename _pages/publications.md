@@ -15,7 +15,7 @@ author_profile: true
   
 ### Preprints
 * Yaxin Li, **Wei Jin**, Han Xu, Jiliang Tang <br>
-  **DeepRobust: A PyTorch Library for Adversarial Attacksand Defenses** [[pdf]](https://arxiv.org/abs/2005.06149) <br>
+  **DeepRobust: A PyTorch Library for Adversarial Attacksand Defenses** [[pdf]](https://arxiv.org/abs/2005.06149) [[code]](https://github.com/DSE-MSU/DeepRobust) <br>
   arxiv:2005.06149, 2020
 * **Wei Jin**, Yaxin Li, Han Xu, Yiqi Wang, Jiliang Tang <br>
   **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study** [[pdf]](https://arxiv.org/abs/2003.00653)<br>
