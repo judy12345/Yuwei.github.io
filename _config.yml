@@ -12,9 +12,9 @@ title                    : "WEI JIN'S HOMEPAGE"
 title_separator          : "-"
 name                     : &name "Wei Jin"
 description              : &description "personal description"
-url                      : http://cse.msu.edu/~jinwei2 #https://ChandlerBang.github.io #  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://judy12345.github.io/Yuwei.github.io/ #https://ChandlerBang.github.io #  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io" # "ChandlerBang/ChandlerBang.github.io"
+repository               : "judy2345/Yuwei.github.io" # "ChandlerBang/ChandlerBang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
