@@ -8,9 +8,9 @@
 github: [metadata]
 # Site Settings
 locale                   : "en-US"
-title                    : "WEI JIN'S HOMEPAGE"
+title                    : "YUWEI HAN'S HOMEPAGE"
 title_separator          : "-"
-name                     : &name "Wei Jin"
+name                     : &name "Yuwei HAN"
 description              : &description "personal description"
 url                      : https://judy12345.github.io/Yuwei.github.io/ #https://ChandlerBang.github.io #  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: 
-  username               : "weisshelter"
+  username               : "IDimash188793"
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Jin"
+  name             : "Yuwei HAN"
   avatar           : "2020-02.jpg" #"2018-10.png"
-  bio              : "One paper a day keeps the unemployment away!"
-  location         : "East Lansing, Michigan"
+  bio              :
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : jinwei2@msu.edu
+  email            : 22041949r@connect.polyu.hk
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -97,19 +97,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ChandlerBang"
+  github           : "judy12345"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "wei-jin-71041a182"
+  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "weisshelter"
+  twitter          : "IDimash188793"
   vine             :
   weibo            :
   xing             :
