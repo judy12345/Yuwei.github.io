@@ -7,38 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm a first-year Ph.D. student of  Computer Science and Engineering at Michigan State University (MSU), supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/). I completed my B.E. degree in Electrical Engineering at Zhejiang University. 
+I'm a second-year Mphil student of Computer Science at Hong Kong Polytechnic University, supervised by Dr. [Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). I completed my B.E. degree in Computer Science at Jinan University. 
 
-My interest lies in Graph Representation Learning and now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
+My interest lies in TrustWorthy ML and now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
 
-Previously, I worked as an intern at Hangzhou Xiaoyu Co. Ltd, developing user and microblog recommender systems, and worked as a research intern at University of Western Australia supervised by Dr. [Wei Liu](https://scholar.google.com/citations?user=o_u17HMAAAAJ&hl=en). I also worked as a research assistant with Dr. [Donghui Wang](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=en) (ZJU) in 2018.
 
-Email: joe.weijin At gmail Dot com. Find me on [github](https://github.com/ChandlerBang), [Linkedin](https://www.linkedin.com/in/wei-jin-71041a182/).
 
-<!--
------
+
+
+
 Research Interest
 =====
-*
--->
+* Graph Neural Networks
+* Advesarial Attack and Defense
 
-News
+
+<!News
 =====
-* [05/2020] Our paper “Graph Structure Learning for Robust Graph Neural Networks” is accepted by KDD2020
-* [05/2020] Our tutorial  “Adversarial Attacks and Defenses: Frontiers, Advances and Practice” is accepted by KDD2020
-* [05/2020] Preprint ["DeepRobust: A PyTorch Library for Adversarial Attacks and Defenses"](https://arxiv.org/abs/2005.06149)
-* [03/2020] Preprint ["Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study"](https://arxiv.org/abs/2003.00653)
-* [02/2020] Check our repository [DeepRobust](https://github.com/DSE-MSU/DeepRobust) here, which is a pytorch library for adversarial attacks and defenses on images and graphs
-* [02/2020] Honored to present our tutorial in AAAI 2020 [[website]](http://cse.msu.edu/~mayao4/tutorials/aaai2020/)
-* [09/2019] Our tutorial  “Graph Neural Networks: Models and Applications” is accepted by AAAI2020
-* [08/2019] Start my Ph.D. life at Michigan State University!
-* [07/2019] Graduate from Zhejiang University with the awards of Outstanding Graduate of ZJU and Zhejiang Province, China
+
 
 Personal
 ====
-I enjoy many different kinds of sports including running, basketball, ping-pong and tennis. During my undergrad, I got several champions in 400m, 400m hurdles and 4*400m relay races at the university sports meet. 
-
-Now my goal is to bulk up ~~and hopefully get a certificate of personal trainer~~. Let's see what will happen 5 years later :)
+>
 
 <!---
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
