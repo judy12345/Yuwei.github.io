@@ -75,7 +75,7 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  google: 
     tracking_id          :
 
 
@@ -87,7 +87,7 @@ author:
   location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=CxRMv4AAAAAJ"
   email            : 22041949r@connect.polyu.hk
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -102,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "Yuwei Han"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
