@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* Ph.D in Computer Science, Michigan State University
-  * Aug. 2019 - Present
+* Mphil in Computer Science, Hong Kong Polytechnic University
+  * Sep. 2022 - Aug. 2024(Expected)
 
-* B.E. in Eletrical Engineering, Zhejiang University
-  * Sept. 2015 - June 2019  
+* B.E. in Computer Science(cyber security), Jinan University
+  * Sept. 2018 - June 2022 
 
 <!--
 Publication
@@ -23,13 +23,14 @@ To be add...
 
 Experience
 ======
-* Oct 2018 - Apr 2019: Data Engineer Intern
-  * Hangzhou Xiaoyu Inc. 
-  * Developing microblog and user recommender systems
-*  Jul 2018 - Sep 2018: Research Intern
-    * University of Western Australia 
-    * Supervised by Dr. Wei Liu
-* Feb 2018 - Jul 2018: Research Assistant  
+* Sep 2022 - Present: Mphil
+  *  Secure and Trustworthy Intelligence Laboratory led by Prof. Kai Zhou in PolyU
+  *  Poisoning attacks to Graph Neural Networks(GNN), Data Distillation on graphs
+*  Jun 2023 - Present: Research Intern
+    * University of Illinois Urbana-Champaign 
+    * Supervised by Dr.haohan Wang
+    * Defense for backdoor attacks to Data Distillation
+* Sep 2018 - Jul 2018: Research Assistant  
     * DCD Lab, Zhejiang University
     * Supervised by Dr. Donghui Wang 
 
