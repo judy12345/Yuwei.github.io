@@ -17,16 +17,16 @@ author_profile: true
 ### Software copyright
 
 **Han Yuwei**, Yang Haolin, Chen Jingjing<br> 
-**Advanced location calling service software based on dynamic spatial query**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[code]](https://github.com/judy12345/ad-sample)<br>
+**Advanced location calling service software based on dynamic spatial query**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[materials]](https://github.com/judy12345/ad-sample)<br>
 Certificate number: 8216161, registration number:2021SR1493535, October 12th, 2021.<br>
  **Han Yuwei**, Yu Qiaobin, Liao Ziwei<br>
- **Location/track privacy protection mobile application system**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[code]](https://github.com/judy12345/ad-sample) <br>
+ **Location/track privacy protection mobile application system**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[materials]](https://github.com/judy12345/ad-sample) <br>
  Certificate number: 8216143, registration number:2021SR1493517 , October 12th, 2021.<br>
 Tan Jingwen, Guo Peini, **Han Yuwei**, Cai Yuqing, Zeng Lingchao<br>
-**Health self-test APP V1.0 based on iris detection technology**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[code]](https://github.com/judy12345/ad-sample)<br>
+**Health self-test APP V1.0 based on iris detection technology**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[materials]](https://github.com/judy12345/ad-sample)<br>
 Certificate number: 7360226, registration number: 2021SR0637600, May 6th, 2021.<br>
 **Han Yuwei**<br>
-**Blockchain-based authentication system**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[code]](https://github.com/judy12345/ad-sample)<br>
+**Blockchain-based authentication system**[[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[materials]](https://github.com/judy12345/ad-sample)<br>
 Certificate number: 8197139, registration number: 2021SR1474513, October 9th, 2021<br>
 <!--
 {% if author.googlescholar %}
