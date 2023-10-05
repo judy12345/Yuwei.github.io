@@ -11,7 +11,7 @@ author_profile: true
   Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP), 2024<br>
 **Yuwei Han**, Qing Wang <br>
   **An adversarial sample defense model based on computer attention mechanism** [[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[code]](https://github.com/judy12345/ad-sample) <br>
-  2021 International Conference on Communications, Information System and Computer Engineering (CISCE),2021
+  2021 International Conference on Communications, Information System and Computer Engineering (CISCE),2021<br>
   Hailiang Li, Bin Zhang, Yu Zhang, Xilin Dang, **Yuwei Han**, Linfeng Wei, Yijun Mao, Jian Weng <br>
   **A defense method based on attention mechanism against traffic sign adversarial samples**  [[Link]](https://www.sciencedirect.com/science/article/pii/S1566253521001056)[[code]](https://github.com/judy12345/ad-sample) <br>
 ### Software copyright
