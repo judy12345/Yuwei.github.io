@@ -65,7 +65,7 @@ Activities
 * Volunteering for turtle conservation in Indonesia
 
 
-You can find my [CV](https://github.com/judy12345/Yuwei.github.io/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/files/master-transcript.pdf) here. 
+You can find my [CV](https://github.com/judy12345/Yuwei.github.io/blob/master/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/master-transcript.pdf) here. 
 
 
 <!--
