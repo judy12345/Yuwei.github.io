@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 ### Education
 * Mphil in Computer Science, Hong Kong Polytechnic University
   * Sep. 2022 - Aug. 2024(Expected)
@@ -16,32 +17,55 @@ redirect_from:
 * B.E. in Computer Science(cyber security), Jinan University
   * Sept. 2018 - June 2022 
 
-<!--
-Publication
-======
-To be add...
 
 Experience
 ======
 * Sep 2022 - Present: Mphil
-  *  Secure and Trustworthy Intelligence Laboratory led by Prof. Kai Zhou in PolyU
-  *  Poisoning attacks to Graph Neural Networks(GNN), Data Distillation on graphs
-*  Jun 2023 - Present: Research Intern
+  *  Secure and Trustworthy Intelligence Laboratory led by Dr. Kai Zhou in PolyU
+  *  Poisoning attacks to Graph Neural Networks(GNN), Data Distillation on graph
+* Jun 2023 - Present: Research Intern
     * University of Illinois Urbana-Champaign 
     * Supervised by Dr.haohan Wang
     * Defense for backdoor attacks to Data Distillation
-* Sep 2018 - Jul 2018: Research Assistant  
-    * DCD Lab, Zhejiang University
-    * Supervised by Dr. Donghui Wang 
+* Sep 2019 - Jul 2022: Research Assistant  
+    * Guangdong Network Security and Privacy Protection Laboratory, Jinan University
+    * Supervised by Dr. bingwen Feng and Prof.Jian Weng 
+    * Location privacy protection algorithms and machine learning security problems
+    * Adversarial attacks and defense to deep learning models
+ * Nov 2020 - Apr 2021: Research Intern  
+    * Guangdong Network Security and Privacy Protection Laboratory, Jinan University
+    * Supervised by Dr. bingwen Feng and Prof.Jian Weng 
+    * Location privacy protection algorithms and machine learning security problems
+    * Adversarial attacks and defense to deep learning models
+* Sep 2019 - Jul 2022: Research Assistant  
+    * Cambridge AI research group led by Prof. Pietro Lio’
+    * Supervised by Prof. Pietro Lio’
+    * Adversarial attacks and defense to deep learning models
 
+       
 Honors & Awards
 =====
-* Provincial Government Scholarship (top 5%), 2018
-* Second-Class Scholarship for Outstanding Merits (top 11%), 2016 & 2017 & 2018
+* Jinan University Excellent Student First-Class Scholarship(top 5% of the university)
+* JNU 5A Excellent Student Award Program “Entrepreneurship Star” PacemakerAward(top 3% of the university)
+* JNU Ziwen Inspirational Scholarship (top 20% of the university)
 * Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
--->
+* National second prize of the National University Student Information Security Competition in 2021(top 150/1287)
+* First prize of Guangdong Province in the Computer Design Competition in 2021(top 35/684)
+* Second prize of JNU in the “Challenge Cup” academic technology competition in 2021
+* National third prize in the China University Student Service Outsourcing Competition in 2020(top 100/2405)
+* Third prize in the South China Division in the Computer Design Contest-Artificial Intelligence Challenge in 2020
+* Third prize in the South China Division in the iCAN International College Student Innovation and Entrepreneurship 
+Competition in 2020
+* Third prize of Guangdong Province in the Microsoft Innovation Cup “Imagine Cup” academic technology competition in
+2020(top 10/267)
+  
+Activities
+=====
+* Empowering Innovation and Entrepreneurship: Facilitating Finance for Groundbreaking Blockchain Initiatives
+* Volunteering for turtle conservation in Indonesia
 
-You can find my [CV](https://chandlerbang.github.io/files/CV_Wei%20Jin_MSU.pdf) here. 
+
+You can find my [CV](https://github.com/judy12345/Yuwei.github.io/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/files/master-transcript.pdf) here. 
 
 
 <!--
