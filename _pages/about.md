@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a second-year Mphil student of Computer Science at Hong Kong Polytechnic University, supervised by Dr. [Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). I completed my B.E. degree in Computer Science at Jinan University. 
 
-My interest lies in TrustWorthy ML and now I work on the area of graph neural network including its theory foundations, model robustness and applications. 
+My interest lies in TrustWorthy ML and now I am working on the area of graph neural network including its theory, robustness and applications. 
 
 
 
@@ -19,7 +19,8 @@ My interest lies in TrustWorthy ML and now I work on the area of graph neural ne
 Research Interest
 =====
 * Graph Neural Networks
-* Advesarial Attack and Defense
+* Adversarial Attack and Defense
+* Data distillation
 
 
 <!---News
