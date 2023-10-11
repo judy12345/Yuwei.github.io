@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second-year Mphil student of Computer Science at Hong Kong Polytechnic University, supervised by Dr. [Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). I completed my B.E. degree in Computer Science at Jinan University. 
+I'm a second-year Mphil student of Computer Science at Hong Kong Polytechnic University, supervised by Dr. [Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). I completed my B.E. degree in Computer Science at [Jinan University](https://english.jnu.edu.cn/). 
 
 My interest lies in TrustWorthy ML and now I am working on the area of graph neural network including its theory, robustness and applications. 
 
