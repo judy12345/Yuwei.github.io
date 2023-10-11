@@ -32,12 +32,8 @@ Experience
     * Supervised by Dr. bingwen Feng and Prof.Jian Weng 
     * Location privacy protection algorithms and machine learning security problems
     * Adversarial attacks and defense to deep learning models
- * Nov 2020 - Apr 2021: Research Intern  
-    * Guangdong Network Security and Privacy Protection Laboratory, Jinan University
-    * Supervised by Dr. bingwen Feng and Prof.Jian Weng 
-    * Location privacy protection algorithms and machine learning security problems
-    * Adversarial attacks and defense to deep learning models
-* Sep 2019 - Jul 2022: Research Assistant  
+
+* Nov 2020 - Mar 2021: Research Assistant  
     * Cambridge AI research group led by Prof. Pietro Lio’
     * Supervised by Prof. Pietro Lio’
     * Adversarial attacks and defense to deep learning models
