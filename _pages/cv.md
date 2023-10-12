@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +9,8 @@ redirect_from:
 {% include base_path %}
 
 
-### Education
+Education
+======
 * Mphil in Computer Science, Hong Kong Polytechnic University
   * Sep. 2022 - Aug. 2024(Expected)  GPA:3.2/4.3
 
