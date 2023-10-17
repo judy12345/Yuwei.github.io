@@ -16,7 +16,7 @@ Education
 
 * B.E. in Computer Science(cyber security), Jinan University
   * Sept. 2018 - June 2022    GPA:3.42/4(by wes) 84.4/100
-
+You can find my [CV](https://github.com/judy12345/Yuwei.github.io/blob/master/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/master-transcript.pdf) here.
 
 Experience
 ======
@@ -44,7 +44,6 @@ Honors & Awards
 * Jinan University Excellent Student First-Class Scholarship(top 5% of the university)
 * JNU 5A Excellent Student Award Program “Entrepreneurship Star” PacemakerAward(top 3% of the university)
 * JNU Ziwen Inspirational Scholarship (top 20% of the university)
-* Top Ten Outstanding Students of Lantian Academy, Zhejiang University, 2017
 * National second prize of the National University Student Information Security Competition in 2021(top 150/1287)
 * First prize of Guangdong Province in the Computer Design Competition in 2021(top 35/684)
 * Second prize of JNU in the “Challenge Cup” academic technology competition in 2021
@@ -61,7 +60,7 @@ Activities
 * Volunteering for turtle conservation in Indonesia
 
 
-You can find my [CV](https://github.com/judy12345/Yuwei.github.io/blob/master/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/master-transcript.pdf) here. 
+
 
 
 <!--
