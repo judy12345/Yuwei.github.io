@@ -14,7 +14,8 @@ Education
 * Mphil in Computer Science, Hong Kong Polytechnic University
   * Sep. 2022 - Aug. 2024(Expected)  GPA:3.2/4.3
 
-* B.E. in Computer Science(cyber security), Jinan University
+* B.E. in Computer Science(cyber security), Jinan University<br>
+
   * Sept. 2018 - June 2022    GPA:3.42/4(by wes) 84.4/100 <br>
 
 ======
