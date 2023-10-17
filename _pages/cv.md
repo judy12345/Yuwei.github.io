@@ -14,13 +14,13 @@ Education
 * Mphil in Computer Science, Hong Kong Polytechnic University
   * Sep. 2022 - Aug. 2024(Expected)  GPA:3.2/4.3
 
-* B.E. in Computer Science(cyber security), Jinan University<br>
+* B.E. in Computer Science(cyber security), Jinan University
 
   * Sept. 2018 - June 2022    GPA:3.42/4(by wes) 84.4/100 <br>
 
-======
-You can find my [CV](https://github.com/judy12345/Yuwei.github.io/blob/master/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/master-transcript.pdf) here.
 
+You can find my [CV](https://github.com/judy12345/Yuwei.github.io/blob/master/files/HANYuwei_CV.pdf),[Bechlor Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/bechlor_transcript.pdf),[Master Transcript](https://github.com/judy12345/Yuwei.github.io/blob/master/files/master-transcript.pdf) here.
+======
 Experience
 ======
 * Sep 2022 - Present: Mphil
