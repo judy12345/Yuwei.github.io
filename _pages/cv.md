@@ -46,7 +46,7 @@ Experience
 Honors & Awards
 =====
 * Jinan University Excellent Student First-Class Scholarship(top 5% of the university)
-* JNU 5A Excellent Student Award Program “Entrepreneurship Star” PacemakerAward(top 3% of the university)
+* JNU 5A Excellent Student Award Program “Entrepreneurship Star” PacemakerAward(top 10 of the university)
 * JNU Ziwen Inspirational Scholarship (top 20% of the university)
 * National second prize of the National University Student Information Security Competition in 2021(top 150/1287)
 * First prize of Guangdong Province in the Computer Design Competition in 2021(top 35/684)
