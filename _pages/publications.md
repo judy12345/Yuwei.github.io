@@ -14,6 +14,7 @@ author_profile: true
   2021 International Conference on Communications, Information System and Computer Engineering (CISCE),2021<br>
   Hailiang Li, Bin Zhang, Yu Zhang, Xilin Dang, **Yuwei Han**, Linfeng Wei, Yijun Mao, Jian Weng <br>
   **A defense method based on attention mechanism against traffic sign adversarial samples**  [[Link]](https://www.sciencedirect.com/science/article/pii/S1566253521001056)[[code]](https://github.com/judy12345/ad-sample) <br>
+  Journal: Information fusion, (76),55-65,2021.
 ### Software copyright
 
 **Han Yuwei**, Yang Haolin, Chen Jingjing<br> 
