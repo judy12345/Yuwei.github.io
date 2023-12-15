@@ -8,7 +8,7 @@ author_profile: true
 ### Papers
  **Yuwei Han**, Yuni Lai, Yulin Zhu, Kai Zhou. <br> 
   **Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks**[[Link]](https://github.com/judy12345/Yuwei.github.io/blob/master/files/Cost_Aware__ICASSP___full_.pdf)[[code]](https://github.com/judy12345/cost-aware-attack/tree/main)<br>
-  Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP), 2024<br>
+  IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP), 2024<br>
 **Yuwei Han**, Qing Wang <br>
   **An adversarial sample defense model based on computer attention mechanism** [[Link]](https://ieeexplore.ieee.org/abstract/document/9446015)[[code]](https://github.com/judy12345/ad-sample) <br>
   2021 International Conference on Communications, Information System and Computer Engineering (CISCE),2021<br>
