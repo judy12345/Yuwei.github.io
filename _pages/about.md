@@ -19,8 +19,8 @@ My interest lies in TrustWorthy ML and now I am working on the area of graph neu
 Research Interest
 =====
 * Graph Neural Networks
-* Adversarial Attack and Defense
-* Data distillation
+* Large Language Model
+* Data Distillation
 
 
 <!---News
