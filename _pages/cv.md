@@ -64,7 +64,7 @@ Competition in 2020
 
 Academic Service
 =====
-Invited Reviewer: TKDD journal, IEEE Access Journal ICASSP 2025
+Invited Reviewer: TKDD journal, IEEE Access Journal, ICASSP 2025
 
 Activities
 =====
