@@ -61,7 +61,11 @@ Honors & Awards
 Competition in 2020
 * Third prize of Guangdong Province in the Microsoft Innovation Cup “Imagine Cup” academic technology competition in
 2020(top 10/267)
-  
+
+Academic Service
+=====
+Invited Reviewer: TKDD journal, IEEE Access Journal ICASSP 2025
+
 Activities
 =====
 * Empowering Innovation and Entrepreneurship: Facilitating Finance for Groundbreaking Blockchain Initiatives
