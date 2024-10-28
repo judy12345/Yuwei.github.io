@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student of Computer Science at University of Illinois Chicago, supervised by Prof. Philip S. Yu(https://scholar.google.com/citations?user=D0lL1r0AAAAJ). I completed my Mphil degree in Computer Science at Hong Kong Polytechnic Univeristy and my B.E. degree in Computer Science at [Jinan University](https://english.jnu.edu.cn/). 
+I'm a PhD student of Computer Science at University of Illinois Chicago, supervised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ). I completed my Mphil degree in Computer Science at Hong Kong Polytechnic Univeristy and my B.E. degree in Computer Science at [Jinan University](https://english.jnu.edu.cn/). 
 
 My interest lies in Graph Data Mining, TrustWorthy ML and Large Language Models. Now I am working on the field of graph anomaly detection.
 
