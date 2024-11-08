@@ -15,6 +15,8 @@ author_profile: true
   Hailiang Li, Bin Zhang, Yu Zhang, Xilin Dang, **Yuwei Han**, Linfeng Wei, Yijun Mao, Jian Weng <br>
   **A defense method based on attention mechanism against traffic sign adversarial samples**  [[Link]](https://www.sciencedirect.com/science/article/pii/S1566253521001056)[[code]](https://github.com/judy12345/ad-sample) <br>
   Journal: Information Fusion, (76),55-65,2021.
+### Projects
+Funded by NSF ACCESS Allocation as a Co-PI on project: OpenAD: An Integrated Open-Source Ecosystem for Anomaly Detection. Funding Amount: 750000 Credits.
 ### Software copyright
 
 **Han Yuwei**, Yang Haolin, Chen Jingjing<br> 
