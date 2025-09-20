@@ -16,7 +16,7 @@ Wooseong Yang, Weizhi Zhang, Yuqing Liu, **Yuwei Han**, Yu Wang, Junhyun Lee, Ph
   Under Submission <br>
 Zhongfen Deng, Yibo Wang,Yueqing Liang, Jiangshu Du, Yuyao Yang, Liancheng Fang, Langzhou He, **Yuwei Han**, Yuanjie Zhu, Chunyu Miao, Weizhi Zhang, Jiahua Chen, Yinghui Li, Wenting Zhao, Philip S. Yu <br> 
   **A Survey of MultiModal Models on Language and Vision: A Unified Modeling
-Perspective**[[Link]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CxRMv4AAAAAJ&citation_for_view=CxRMv4AAAAAJ:RYcK_YlVTxYC)<br>
+Perspective**[[Link]](https://github.com/judy12345/Yuwei.github.io/blob/master/files/Multimodality_Survey___ACM_Journals.pdf)<br>
   Under Submission <br>
 
 Zhenyu Pan, Yiting Zhang, Yutong Zhang, **Yuwei Han**, Jianshu Zhang, Haozheng Luo, Dennis Wu, Hong-Yu Chen, Manling Li, Philip S. Yu, Han Liu  <br> 
