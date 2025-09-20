@@ -14,6 +14,10 @@ Kay Liu, **Yuwei Han**, Haoyan Xu, Henry Peng Zou, Yue Zhao, Philip S. Yu. <br>
 Wooseong Yang, Weizhi Zhang, Yuqing Liu, **Yuwei Han**, Yu Wang, Junhyun Lee, Philip S. Yu <br> 
   **Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**[[Link]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CxRMv4AAAAAJ&citation_for_view=CxRMv4AAAAAJ:RYcK_YlVTxYC)<br>
   Under Submission <br>
+Zhongfen Deng, Yibo Wang,Yueqing Liang, Jiangshu Du, Yuyao Yang, Liancheng Fang, Langzhou He, **Yuwei Han**, Yuanjie Zhu, Chunyu Miao, Weizhi Zhang, Jiahua Chen, Yinghui Li, Wenting Zhao, Philip S. Yu <br> 
+  **A Survey of MultiModal Models on Language and Vision: A Unified Modeling
+Perspective**[[Link]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CxRMv4AAAAAJ&citation_for_view=CxRMv4AAAAAJ:RYcK_YlVTxYC)<br>
+  Under Submission <br>
 
 Zhenyu Pan, Yiting Zhang, Yutong Zhang, **Yuwei Han**, Jianshu Zhang, Haozheng Luo, Dennis Wu, Hong-Yu Chen, Manling Li, Philip S. Yu, Han Liu  <br> 
   **Evo-MARL: Co-Evolutionary Multi-Agent Reinforcement Learning for Internalized Safety**[[Link]](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=CxRMv4AAAAAJ&citation_for_view=CxRMv4AAAAAJ:dfsIfKJdRG4C)[[code]](https://github.com/judy12345/cost-aware-attack/tree/main)<br>
